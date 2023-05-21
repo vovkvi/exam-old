@@ -1,1 +1,1 @@
-# Previous version of [ExaM](https://vovkvi.github.io)
+# Previous version of [ExaM](https://vovkvi.github.io/exam)
