@@ -1,1 +1,1 @@
-# exam-old
+# Previous version of ExaM
